@@ -9,7 +9,6 @@ import tn.esprit.eventsproject.services.IEventServices;
 
 import java.time.LocalDate;
 import java.util.List;
-import java.util.logistics
 
 @RequiredArgsConstructor
 @RequestMapping("/event")
